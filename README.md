@@ -24,7 +24,7 @@
 <h4> 🔑 Keys <h4>   
   
 <!-- BLOG-POST-LIST:START -->
-  - Lifetime key $20,
+  - Lifetime key $50,
     Comes With 25k Followers
 <!-- BLOG-POST-LIST:EnD -->  
   
