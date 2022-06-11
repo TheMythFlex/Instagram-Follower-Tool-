@@ -11,6 +11,9 @@
 </div>
 </p>
 
+*Discord Server: discord.gg/flextools*
+
+
 <h4> 🔑 Features <h4> 
 
 <!-- BLOG-POST-LIST:START -->
