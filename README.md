@@ -53,4 +53,4 @@
   
   Click on image to watch video showcase
   
-[![Video Showcase](https://cdn.discordapp.com/attachments/899424300120027216/985236566131740772/unknown.png)](https://youtu.be/lssmlQzcIAA))
+[![Video Showcase](https://cdn.discordapp.com/attachments/899424300120027216/985236566131740772/unknown.png)](https://youtu.be/lssmlQzcIAA)
